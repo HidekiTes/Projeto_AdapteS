@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../gui/icons/database_fill.svg</file>
+    <file>../gui/icons/notifications_fill.svg</file>
+  </qresource>
+</RCC>
